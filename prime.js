@@ -23,7 +23,7 @@ var prime=function(a){
 prime([4, 14, 13, 15, 7, 19, 8, 5, 3, 9.]);
 
 
-//the prime numbers in an array Using IIFE
+//the prime numbers in an array Using Immediately Invoked Function Expression(IIFE)
 
 (function(a1){
     var  res1=[];

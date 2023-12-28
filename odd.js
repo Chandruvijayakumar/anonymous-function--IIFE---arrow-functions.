@@ -20,7 +20,6 @@ let odd1 = [1,2,3,4,5,6,7,8,9,10];
    for(let x = 0; x<odd1.length; x++){
     if(odd1[x]%2==1){
         Anonymous1.push(odd1[x])
-      
     }
 } 
   console.log(Anonymous1);

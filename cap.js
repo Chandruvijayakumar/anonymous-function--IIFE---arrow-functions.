@@ -32,6 +32,5 @@ let str2 = ['the', 'sun', 'shines','brightly.'];
  let strCaps = str2.map((item) => {
 
     return item.charAt(0).toUpperCase() + item.slice(1).toLowerCase();
-
 });
 console.log( strCaps.join(' '));

@@ -10,7 +10,7 @@ let add = function (n){
 var n= [1,2,8,4,10];
 add(n);
 
-//sum of numbers using IIFE
+//sum of numbers using Immediately Invoked Function Expression(IIFE)
 var n= [1,2,7,4,8];
 (function (){
     let sum = 0;
